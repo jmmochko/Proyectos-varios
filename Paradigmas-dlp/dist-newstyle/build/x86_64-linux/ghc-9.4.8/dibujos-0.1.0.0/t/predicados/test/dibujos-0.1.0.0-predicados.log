@@ -1,0 +1,10 @@
+Test suite predicados: RUNNING...
+True, Have 1s
+True, Have 2s
+False, Not All 1s
+False, Not All 2s
+False, Imposible for an int to be both 1 and 2
+True, Have both 1 or 2 on every figure
+False, Have no 2s
+Test suite predicados: PASS
+Test suite logged to: /home/jose/Desktop/Paradigmas-dlP/group_26_lab1_2024/dist-newstyle/build/x86_64-linux/ghc-9.4.8/dibujos-0.1.0.0/t/predicados/test/dibujos-0.1.0.0-predicados.log
